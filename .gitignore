@@ -1,0 +1,20 @@
+# Local Packwiz executable and caches
+/packwiz.exe
+/packwiz
+/.packwiz-cache/
+
+# Generated exports and build output
+/build/
+/dist/
+/*.mrpack
+
+# Editor and operating-system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuration backups
+*.bak
+

@@ -1,0 +1,22 @@
+# Repository and development files that are not Minecraft overrides
+/.git/
+/.github/
+/.gitattributes
+/.gitignore
+/README.md
+/packwiz.exe
+/packwiz
+/build/
+/dist/
+
+# Per-user state and runtime caches
+/config/ars_nouveau/search_index/
+/config/embeddium-fingerprint.json
+/config/jei/world/
+/config/resourceful-config-web.json
+/config/spark/tmp/
+/config/spark/tmp-client/
+/config/voicechat/category-volumes.properties
+/config/voicechat/player-volumes.properties
+/config/voicechat/username-cache.json
+/config/voicechat/voicechat-volumes.properties

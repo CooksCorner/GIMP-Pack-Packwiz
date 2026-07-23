@@ -1,0 +1,13 @@
+name = "Transfer Labels"
+filename = "transfer_labels-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hRrzpz5p/versions/OyljSkwr/transfer_labels-0.1.8.jar"
+hash-format = "sha512"
+hash = "0b7a3032a9ec1a6af9fa90521c35f4a61c88848ade71b34a3b2ecdc63891741d020ba65c5384cfeb682d632485d8f20cbedf70d736d573613469a976313482ce"
+
+[update]
+[update.modrinth]
+mod-id = "hRrzpz5p"
+version = "OyljSkwr"

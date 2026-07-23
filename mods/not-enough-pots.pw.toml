@@ -1,0 +1,13 @@
+name = "Not Enough Pots"
+filename = "notenoughpots-1.21-neoforge-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KICpzgMG/versions/jiCZTByG/notenoughpots-1.21-neoforge-1.5.jar"
+hash-format = "sha512"
+hash = "b9cafcbd33bc2c2b0f3d5273143798a10c1997fe2526794fe1f247f111f17329cfcb74234d62dd5658fdbea8095aa5c276d098a8f79233d8ccf585a6637d0bbc"
+
+[update]
+[update.modrinth]
+mod-id = "KICpzgMG"
+version = "jiCZTByG"

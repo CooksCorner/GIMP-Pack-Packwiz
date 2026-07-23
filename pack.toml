@@ -1,0 +1,13 @@
+name = "G.I.M.P Pack"
+author = "Cooks Corner"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "68f342a07729bd57379dfbeb42f34872c71be90ab022309e1d22f6842dbc1eb6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

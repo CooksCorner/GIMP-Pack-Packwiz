@@ -1,0 +1,13 @@
+name = "Potted Delight"
+filename = "potteddelight-1.21.1-neoforge-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RinYJZvD/versions/BhexoOzo/potteddelight-1.21.1-neoforge-1.1.jar"
+hash-format = "sha512"
+hash = "f0bcd2b6cf1cba9d61840620cfa4fdb21cd120233ddf670d6793d71f2df3e418cd08e57849bb190c9a00f82808e3f41dbdabdf7c432b9bfdb5f9cfaaad7bc8e0"
+
+[update]
+[update.modrinth]
+mod-id = "RinYJZvD"
+version = "BhexoOzo"
