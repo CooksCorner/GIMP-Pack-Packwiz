@@ -11,6 +11,7 @@
 
 # Per-user state and runtime caches
 /config/ars_nouveau/search_index/
+/config/almostunified/debug.json
 /config/embeddium-fingerprint.json
 /config/jei/world/
 /config/resourceful-config-web.json
