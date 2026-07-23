@@ -1,6 +1,7 @@
-* text=auto eol=lf
+# Packwiz hashes exact file bytes. Preserve line endings and other text bytes
+# exactly as they exist in the working tree so hosted files keep those hashes.
+* -text
 
 *.jar binary
 *.png binary
 *.zip binary
-
