@@ -2129,10 +2129,6 @@ file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "0bbfee900506acf4d7ab839fcdb47da139f809607486c38530d233b29febb319"
 
 [[files]]
-file = "icon.png"
-hash = "895f5a97b346584df6510ef70682f7310096b8e312c94964b7d85a8f25854697"
-
-[[files]]
 file = "keybind_bundles.json"
 hash = "558221159309638bdf26eef8f41dc6ec9586642ca3dc6df2652501704b38a223"
 
@@ -3806,3 +3802,7 @@ hash = "2c1d0b17771a74cd157f99e5c1487406d3f571b239603494df6a19e046f4c298"
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "428f8f4c710bcbe057b19bd3d79fbdc82a36eada9acfe064fd9ab534bf01019b"
+
+[[files]]
+file = "server-icon.png"
+hash = "895f5a97b346584df6510ef70682f7310096b8e312c94964b7d85a8f25854697"
