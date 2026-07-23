@@ -798,7 +798,7 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "b558e7ab27e264c64e0a688a3f25804f688d964d611b6be52ac428d61fdbb167"
+hash = "edd12d9b0bdf046db0e40a3b970ec7702d563be19b1296923b348b7c92bafbf7"
 
 [[files]]
 file = "config/create_connected-common.toml"
@@ -919,6 +919,10 @@ hash = "ab0821cef920288cc31ca625d018f189262c53763baf80ef8198ea5803ee1441"
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
 hash = "cf431e85c99a39c1324ee49428c972fe5b9eaafd2b25f2eb8938a3c5f0077322"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "3b50985e35445807e40c3fbd0556e76695fc43fa817242cba142c434ed74b947"
 
 [[files]]
 file = "config/dimstorage-server.toml"
@@ -1950,7 +1954,7 @@ hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
 
 [[files]]
 file = "config/terralith.json"
-hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
+hash = "cb8a5d8613fdcc2316654d573c1c06220b5db35802c8837f2dd4a11f1767bd4a"
 
 [[files]]
 file = "config/tiab-server.toml"
@@ -2603,6 +2607,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "6740f13cb017492d25062d1d28a4a27c129170629cbdaf8de1e4ebc02582d28d"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "e2048bb7afd4923586f1db52ed21fd297d193d06daf3dea2807f228d7fed418a"
 metafile = true
 
 [[files]]
