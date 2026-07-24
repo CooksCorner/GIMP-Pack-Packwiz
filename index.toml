@@ -1022,7 +1022,7 @@ hash = "16b611c3293a17dbecf634a37776507fd102c200c3075b360534ab373d4713b7"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "9e8442516f76053645515c42a28bc2d871c23f622b26929e3bd9c68b4238d7bd"
+hash = "0036cf400ff7e4e24a4e2b3386a8ac7afdc2c086858b2dcb4bc636456ae18953"
 
 [[files]]
 file = "config/evilcraft-common.toml"
