@@ -922,7 +922,7 @@ hash = "cf431e85c99a39c1324ee49428c972fe5b9eaafd2b25f2eb8938a3c5f0077322"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3b50985e35445807e40c3fbd0556e76695fc43fa817242cba142c434ed74b947"
+hash = "3e310157118a6250f0cb1285d68480f03e9faf1c4de02fef181fd0918c76de6c"
 
 [[files]]
 file = "config/dimstorage-server.toml"
@@ -3798,6 +3798,10 @@ hash = "4642f835cebdc5a12fdd60dd983c16737388a6b8a8c7c83ef53897bfb1728035"
 [[files]]
 file = "moonlight-global-datapacks/basic_templates/pack.mcmeta"
 hash = "2c1d0b17771a74cd157f99e5c1487406d3f571b239603494df6a19e046f4c298"
+
+[[files]]
+file = "resourcepacks/AE2DarkMode-GUI-Only-V1.0.6.zip"
+hash = "e7c1354c848079afc9153ad6a8124d15b30fab6c3804d56af24f4af657d1cc58"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
