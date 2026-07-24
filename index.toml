@@ -1354,11 +1354,11 @@ hash = "cdc555757159239975f43359541d27ad538983b3b09e25d849eb69020ffe9199"
 
 [[files]]
 file = "config/jamd/mining.json"
-hash = "5228d9448affa85f6f79ba63b5a2d4c7c6f6340f7ad94ebce686596778025dfa"
+hash = "90af22a5d59530f8cb640a5b8a242303320872788daed60d59788ba9806634d4"
 
 [[files]]
 file = "config/jamd/nether.json"
-hash = "a547056d4939a7fceee149f7d3421886176be049cb52a0ec23a1fa9571a75443"
+hash = "32b765ef6b5bfd73f93d48b11e287448c5bc25ae80263ef367df76fdce3b5039"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -2082,7 +2082,7 @@ hash = "8feb07817d28e567c4445a1dc93412c234fd93d0a7d04359b21ae35dcb82b298"
 
 [[files]]
 file = "config/world-gen.json"
-hash = "84ef8cfdebc620803db75d42a1247b952f5c8f34c584e5688d2310a4b5f1fe7f"
+hash = "b088f6e9cb516cf92e9b40ea36c248ad8d393339c3217c12b2dd8990939ecacf"
 
 [[files]]
 file = "config/xnet-client.toml"

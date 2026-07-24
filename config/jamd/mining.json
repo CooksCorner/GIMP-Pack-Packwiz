@@ -1311,45 +1311,6 @@
       ]
     },
     {
-      "ore_size": 5,
-      "discard_on_air_chance": 0.0,
-      "modifiers": [
-        {
-          "count": 2,
-          "type": "minecraft:count"
-        },
-        {
-          "type": "minecraft:in_square"
-        },
-        {
-          "height": {
-            "min_inclusive": {
-              "absolute": -15
-            },
-            "max_inclusive": {
-              "absolute": 40
-            },
-            "type": "minecraft:uniform"
-          },
-          "type": "minecraft:height_range"
-        },
-        {
-          "type": "minecraft:biome"
-        }
-      ],
-      "targets": [
-        {
-          "target": {
-            "tag": "minecraft:stone_ore_replaceables",
-            "predicate_type": "minecraft:tag_match"
-          },
-          "state": {
-            "Name": "rftoolsbase:dimensionalshard_overworld"
-          }
-        }
-      ]
-    },
-    {
       "ore_size": 8,
       "discard_on_air_chance": 0.5,
       "modifiers": [
@@ -2366,12 +2327,12 @@
         }
       ]
     },
-        {
+    {
       "ore_size": 8,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
-          "count": 8,
+          "count": 16,
           "type": "minecraft:count"
         },
         {
@@ -2380,12 +2341,12 @@
         {
           "height": {
             "min_inclusive": {
-              "above_bottom": -32
+              "absolute": -32
             },
             "max_inclusive": {
-              "above_bottom": 42
+              "absolute": 64
             },
-            "type": "minecraft:trapezoid"
+            "type": "minecraft:uniform"
           },
           "type": "minecraft:height_range"
         },
@@ -2420,12 +2381,12 @@
         }
       ]
     },
-        {
+    {
       "ore_size": 8,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
-          "count": 8,
+          "count": 12,
           "type": "minecraft:count"
         },
         {
@@ -2434,12 +2395,12 @@
         {
           "height": {
             "min_inclusive": {
-              "above_bottom": -58
+              "absolute": -60
             },
             "max_inclusive": {
-              "above_bottom": 24
+              "absolute": 24
             },
-            "type": "minecraft:trapezoid"
+            "type": "minecraft:uniform"
           },
           "type": "minecraft:height_range"
         },
@@ -2518,6 +2479,162 @@
           },
           "state": {
             "Name": "irons_spellbooks:deepslate_mithril_ore"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 6,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 11,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "absolute": -120
+            },
+            "max_inclusive": {
+              "absolute": -8
+            },
+            "type": "minecraft:trapezoid"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:stone_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Name": "immersiveengineering:ore_nickel"
+          }
+        },
+        {
+          "target": {
+            "tag": "minecraft:deepslate_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Name": "immersiveengineering:deepslate_ore_nickel"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 4,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 12,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "above_bottom": 0
+            },
+            "max_inclusive": {
+              "absolute": 66
+            },
+            "type": "minecraft:uniform"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:stone_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Properties": {
+              "glowing": "false"
+            },
+            "Name": "evilcraft:dark_ore"
+          }
+        },
+        {
+          "target": {
+            "tag": "minecraft:deepslate_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Properties": {
+              "glowing": "false"
+            },
+            "Name": "evilcraft:dark_ore_deepslate"
+          }
+        }
+      ]
+    },
+    {
+      "ore_size": 4,
+      "discard_on_air_chance": 0.0,
+      "modifiers": [
+        {
+          "count": 6,
+          "type": "minecraft:count"
+        },
+        {
+          "type": "minecraft:in_square"
+        },
+        {
+          "height": {
+            "min_inclusive": {
+              "above_bottom": -32
+            },
+            "max_inclusive": {
+              "above_bottom": 32
+            },
+            "type": "minecraft:trapezoid"
+          },
+          "type": "minecraft:height_range"
+        },
+        {
+          "type": "minecraft:biome"
+        }
+      ],
+      "targets": [
+        {
+          "target": {
+            "tag": "minecraft:stone_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Properties": {
+              "glowing": "false"
+            },
+            "Name": "evilcraft:dark_ore"
+          }
+        },
+        {
+          "target": {
+            "tag": "minecraft:deepslate_ore_replaceables",
+            "predicate_type": "minecraft:tag_match"
+          },
+          "state": {
+            "Properties": {
+              "glowing": "false"
+            },
+            "Name": "evilcraft:dark_ore_deepslate"
           }
         }
       ]
