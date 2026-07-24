@@ -977,14 +977,6 @@ file = "config/elevatorid-server.toml"
 hash = "8a44f65bb1d0d1b7a7b6e012b8f329756db98dd4e2f882f3d7620cbd188c5c13"
 
 [[files]]
-file = "config/embeddium-mixins.properties"
-hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "12d946d8f0e60ad5e19f7d0d7d177317afb9e8f527a6386b486c0fa2fdaf5d4a"
-
-[[files]]
 file = "config/enderchests-client.toml"
 hash = "b9a44512bc810b4c8eacabe00057b6b3dde0fc111b54edecdfb46854e4f2f866"
 
@@ -1869,6 +1861,14 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "59c6ccc02c029e6e87b6ca65c70d65794ea370b0e3b0b79015530641d2e21995"
+
+[[files]]
 file = "config/solarflux/custom_panels.js"
 hash = "4514f8b90326ff8bba4672f57678d3f6356596b563dae86bda6bf8377d554481"
 
@@ -2671,11 +2671,6 @@ hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "302bd3b2339329f655f6bd46c3fe198a3bdd2eff755f9b64b2c1ebc10d3399c0"
 metafile = true
@@ -3416,11 +3411,6 @@ hash = "235ff3215c33cedf10466ed239f584ff2684fd1a835baeb80ae27f9f214a7f22"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "9e060b9489a2092a469c0c4f9859395b8bb826329aae42ab99084fa70829f640"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -3473,6 +3463,16 @@ metafile = true
 [[files]]
 file = "mods/smithing-template-viewer.pw.toml"
 hash = "95a454ef64b7bf3f1e00bd346012389359b14f0ad11521cf76c869b586537495"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "36fe43b253614ca6396e85698d0760f1a586e551a85fbc42f206144d41216019"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
 metafile = true
 
 [[files]]
