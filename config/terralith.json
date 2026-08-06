@@ -6,6 +6,6 @@
     "recipe_changes": false,
     "skylands": true,
     "terrain_slabs": true,
-    "vanilla_stone_gen": false
+    "vanilla_stone_gen": true
   }
 }
