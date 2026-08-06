@@ -2381,6 +2381,11 @@ hash = "2b9d52eece5b6e2fa4308fcb23e121fe8bf23ab17b3867c21b48586e8f1577af"
 metafile = true
 
 [[files]]
+file = "mods/camol.pw.toml"
+hash = "5fbd5fb143ffbd2ea884f8738737eb5eba91f35bd23746b1bd055a41dfc5a4e9"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
 metafile = true
