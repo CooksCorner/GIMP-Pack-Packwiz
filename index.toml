@@ -1174,7 +1174,7 @@ hash = "c41db6f2cbb572fb468e69f4f7e75fcb8580064f012b38a1de77731edd5cdf8b"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+hash = "ec75acf4d8b7da7c4083d5a32b6cb18f513b1bc5e792d257ccc6a43506fdccae"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
