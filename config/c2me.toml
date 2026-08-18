@@ -100,7 +100,7 @@ globalExecutorParallelism = "default"
 [chunkSystem]
 	# (Default: true) Whether to enable async serialization
 	# 
-	asyncSerialization = "default"
+	asyncSerialization = "false"
 	# (Default: false) Whether to recover from errors when loading chunks 
 	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
 	#  Only applies when async chunk loading is enabled

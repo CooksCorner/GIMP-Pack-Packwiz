@@ -698,7 +698,7 @@ hash = "a8d9256245e6a4a9ef9cd19db22432e7dccf447fa7ba803a70ebd23624e7d21b"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "8872909f328e5e22801b3ece9025a2f945b43b4ba3a80513b882883e2b32a16d"
+hash = "c0cd8b5ed479d0e50f1bb203fa9bc57a9ef6230c76c6b6ef4082587393abed57"
 
 [[files]]
 file = "config/cable_facades-common.toml"
@@ -1818,7 +1818,7 @@ hash = "d8b7566667241f3b6ebb550ae4a8620e1540b83c2e1afd42933d007802c78aba"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
-hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+hash = "a0a0b7eedb6fe234761aa0b4cbebec2fb9ef5fa89afd0d69ee028ce38c483268"
 
 [[files]]
 file = "config/shetiphiancore-client.toml"
@@ -2247,7 +2247,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
@@ -2756,6 +2756,11 @@ hash = "49a15bf3a496e885d01e6dd4bf3e08158c9b5c2998027083c3248a6defbce974"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "336456ba2dae48ef86917e5777d8ca24a174dd6def2a8631853afe7c1b468baa"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -3021,6 +3026,11 @@ hash = "7fbe3225c134e823a07f3aecedace39fe866f327671ecca928f134399b94008d"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
 metafile = true
@@ -3028,6 +3038,11 @@ metafile = true
 [[files]]
 file = "mods/laserio.pw.toml"
 hash = "0d7ce37fd00f170025118f0e3fbeef7f4e7147c332b1a5a4e924950eb5e36bc0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -3193,6 +3208,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
@@ -3427,7 +3447,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
+hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
@@ -3518,6 +3538,11 @@ metafile = true
 [[files]]
 file = "mods/step-crafter.pw.toml"
 hash = "8effdaebb6b06909f92b947ee1dcf73ae7e5f8be48173ad66b090cf1916c3980"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
