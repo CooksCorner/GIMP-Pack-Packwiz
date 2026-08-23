@@ -914,11 +914,15 @@ hash = "9f6f15cd8712ee64b76a3f730fb3405d939aa4db8f41a3818c9dd0f440752374"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "ab0821cef920288cc31ca625d018f189262c53763baf80ef8198ea5803ee1441"
+hash = "26ce751c0968b7fd6ec3e8a4803840206bd93a0dce0fcf6c9fb409d9904dd1ee"
 
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
 hash = "cf431e85c99a39c1324ee49428c972fe5b9eaafd2b25f2eb8938a3c5f0077322"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "3b50985e35445807e40c3fbd0556e76695fc43fa817242cba142c434ed74b947"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -2967,12 +2971,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3d05c18864306629ba1ef699a56f03deecd0edb210eb13a087e98c1f2469af30"
+hash = "d306891d79c1bf2e11521faf875747ae875dede848e7968ae33db1ea873e42aa"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cab23002036bed73ab5f842e43f8a1d5355be5209cc794f8016529b7853d075f"
+hash = "17ed80a0fb8716e279cb04664a7038cfa659f878e51915b61fcd7dd35a7920be"
 metafile = true
 
 [[files]]
@@ -3354,6 +3363,10 @@ metafile = true
 file = "mods/rechiseled.pw.toml"
 hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
 metafile = true
+
+[[files]]
+file = "mods/redstone_insulator-0.1.8.jar"
+hash = "3051cfbc8cb62b328eafa1b67b0b39603016892331dccc4a681f6fcf7f7c0554"
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
