@@ -2870,6 +2870,11 @@ hash = "5028b9a22d436749c0eb51ca38611c754dfbb5d1cce288aaa49eae2c562bb1f5"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
