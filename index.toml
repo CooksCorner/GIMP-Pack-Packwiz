@@ -2630,6 +2630,11 @@ hash = "e2048bb7afd4923586f1db52ed21fd297d193d06daf3dea2807f228d7fed418a"
 metafile = true
 
 [[files]]
+file = "mods/delicious-kitchen-appliances.pw.toml"
+hash = "73232852ac2713c7549ead907ed58857fcfcb37359a23fd43a7544c4d868f437"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
 metafile = true
