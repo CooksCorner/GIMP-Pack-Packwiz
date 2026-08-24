@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "delicious_kitchen_appliances:counter_cabinet_variants"
+  },
+  "result": {
+    "id": "delicious_kitchen_appliances:counter_cabinet_granite_navy",
+    "count": 1
+  }
+}

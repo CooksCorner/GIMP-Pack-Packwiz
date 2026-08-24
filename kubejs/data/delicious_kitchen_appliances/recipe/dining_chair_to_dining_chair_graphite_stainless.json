@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "delicious_kitchen_appliances:dining_chair_variants"
+  },
+  "result": {
+    "id": "delicious_kitchen_appliances:dining_chair_graphite_stainless",
+    "count": 1
+  }
+}

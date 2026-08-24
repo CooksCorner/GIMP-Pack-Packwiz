@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "delicious_kitchen_appliances:sink_variants"
+  },
+  "result": {
+    "id": "delicious_kitchen_appliances:sink_stainless",
+    "count": 1
+  }
+}

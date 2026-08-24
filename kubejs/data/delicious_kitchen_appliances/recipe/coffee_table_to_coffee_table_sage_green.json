@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "delicious_kitchen_appliances:coffee_table_variants"
+  },
+  "result": {
+    "id": "delicious_kitchen_appliances:coffee_table_sage_green",
+    "count": 1
+  }
+}

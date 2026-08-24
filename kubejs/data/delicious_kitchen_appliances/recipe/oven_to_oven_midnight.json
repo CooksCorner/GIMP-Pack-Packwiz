@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "delicious_kitchen_appliances:oven_variants"
+  },
+  "result": {
+    "id": "delicious_kitchen_appliances:oven_midnight",
+    "count": 1
+  }
+}

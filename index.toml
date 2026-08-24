@@ -2165,6 +2165,1618 @@ file = "kubejs/config/web_server.json"
 hash = "7928e23f8bc2574dbd4b925f61001817722d68e7609deebf534de9093065b074"
 
 [[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool.json"
+hash = "32b5151c5eea12e1510ef4debf9f90cc675db57f9d354723c4f8b5ad99dc6c84"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_blackstone_copper.json"
+hash = "6eac152df8cfc9b8ab742a8de08aba89dbdeb0b031a764f9cd76690ac8a896a2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_concrete_oak.json"
+hash = "b991fead89a293952673c1f802ff33a812d39ffab3cfe832bd2923a3b6939446"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_deep_navy.json"
+hash = "77cdf729ca20cc6dc0b8ebdb3de02708bae48a7eb8e93756ac978039bf9820f9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_granite_navy.json"
+hash = "7dadabe6d3580c70d3a228d71c40195079122872fee3eb1b5283ce9cd43302b7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_graphite_stainless.json"
+hash = "7285f4efe4e0d04d1069ad7eaf524403577529f9406e144b95de3d4695ba90cf"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_ice_blue.json"
+hash = "115b7125910a5446073afe3f75caa3772f608c8364610c89cd34ee3d42c6bbc6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_marble_cream.json"
+hash = "d7deef8c12816ac5b4e9d297d46f972c9fb648809b578ce95cfa3eaa6d319b12"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_quartz_white.json"
+hash = "d39e306cc74ab1db7adb2287da4446dcedc177d3742a6c391fedd1e85addd103"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_rose_blush.json"
+hash = "3fb9fa4ff38ed0fb0eafd21281f6c192e73156e10dd882531d86efc04f3d9284"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_sage_green.json"
+hash = "8f69a49034ace723f7d5a674793dbd0f7e57edc1e7f4db6b5a52a2908248b257"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_slate_charcoal.json"
+hash = "1723d25ccad6bebbba3b45b001b6262f66c15dc7d070926e4d41ba9df22ff645"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_terrazzo_mint.json"
+hash = "9da75d5e5ad89b9afd68e0e6f3c9b78da9089b27f3aaba1be0c60b8a674ea372"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/bar_stool_yellow.json"
+hash = "7f16d8322434dca0ff52b53c27c1761969031272545fc4053e04c43d44b88ba7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/beer_bottle.json"
+hash = "0039d8efe7108cf18d2e6addc110a4adce82eeccaff07cf783a2a6be6a803310"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/ceiling_fan.json"
+hash = "0bc76d8587d9fb0992ecac701c8e5631b87dc28e22348dcdb82fae0b8077fc46"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/ceiling_fan_light.json"
+hash = "6dd7b3010bd384424effc5c4b4f7e625738f49234924b9d44426c5078e366bdd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/champagne_bottle.json"
+hash = "86ac52870d9c94b8bedc5fe5332b1de19d75f769d2f55e5ee69a18af95020a60"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table.json"
+hash = "f236e8ad2e4bc35c56e9c494a37f3a2279449404a96c50136bd307b36ed684b1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_blackstone_copper.json"
+hash = "8c8952a61847d74e30acf3a1faf596585cb612b29ab89415167ae5af5d592a3d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_concrete_oak.json"
+hash = "e0f2f235c3b7e021f83333b1cb5696e1f4e7359025b8c511e75d199f63660a97"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_deep_navy.json"
+hash = "23d0e31cf8545b4552071b56006858bf4af4fea85a66a317d6078f8f4eaa98f5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_granite_navy.json"
+hash = "cea54065354b7dd4f6c7858856543ba70b4fd3a8dddee81c9bcdbf90deeb77de"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_graphite_stainless.json"
+hash = "ffc89df0d30231caadda70f643a56b0c1a6a154ec33406abe353141e42a35282"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_ice_blue.json"
+hash = "d78ac4af97f8bd117aa7d7855ecf028f1f2347e0ca02a3ba385362b96702343c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_marble_cream.json"
+hash = "6f5de0ab28143dc1eda024d0c7ded8d10da460e8147a03e96d0ba963b962b270"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_quartz_white.json"
+hash = "42d7ce8425c682c301ab7f3214a03cc4ba6086a381d27432d466c1b7602543d0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_rose_blush.json"
+hash = "7906929d9cc25dcbdf8b2931d3652131b05c63665b791d074d61094bf2e56f74"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_sage_green.json"
+hash = "c33f52582db1d48736c21ae92851ad8670a4e3137c11744744a7be52d3a75f07"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_slate_charcoal.json"
+hash = "1cc80fb55a66b49a70e0506b22a344cec682b9234c5a4927598337c9bf6533a8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_terrazzo_mint.json"
+hash = "84a43142d978205a402ca8385675aeaae236d0df922ab4dfea439df36ec96a2b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coffee_table_yellow.json"
+hash = "d1bc9fc99b1e90411165530e87c163cb6a12b2c9b5299cc67e00d367f9954b9e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/coke_bottle.json"
+hash = "6d86308b9fa0cd0906509335e34831f11b8be4b65831ad6dd616d17abcd245b3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooking_pot.json"
+hash = "a533e82db8bff9c101c9540301a1db4e6fb62c99fec829ca5a2673e4f0527664"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop.json"
+hash = "41d8a615fe34d9849105b6c7108c7faa4c8c4361b60f83cdfa969956f0672ad8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_midnight.json"
+hash = "f1f3f0ef0ee0ac192b227d12a640a4f26e5d84079bbade1a9096a81006a58756"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_mint.json"
+hash = "117b05bc86fd7a8b368be91502ddb1a9ed55aaf3f627b8f0b981a6ab7cc49685"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_navy.json"
+hash = "9012b4faadc03c43116f0ff4e152ee247c0e56a0c6a4f933b4c7d0326d0473d7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_red.json"
+hash = "61fc8f9745028b84195431ce56d20ccf26301f64a10b1715cc782ba00c7799bf"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_sage.json"
+hash = "c45a7238720556945e9d6c433f08235ae8d4da4eab3f1a8efbdcbc8d45927e17"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_stainless.json"
+hash = "524f5160156a444ede0169736fba4a52b2d8605a28afe359a7ecc4ce723ab76c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/cooktop_yellow.json"
+hash = "945d2678fbf60c1fe0bc60e408c0c249be721a15d60b56d7582e8e7909e371eb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch.json"
+hash = "49a1d2fa0e864e654ab9b0f9a0f0e0eb42cb087b23bb1d395569f42fb3d2c5f1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_blackstone_copper.json"
+hash = "554776f37f6155a7881f322a12d1fd3a1086472d9e64703f97351626c19ffaa5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_concrete_oak.json"
+hash = "9e1509b542eaeedaf132fecf90f10ef343526b489f7ab28d4e5077fca6f27a94"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_deep_navy.json"
+hash = "1f9ccbe008a9acfa2637cfaa555f84b504465aeffb46a0715c0bcb769f843fa8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_granite_navy.json"
+hash = "ba7db1a717cf350ea54b209dff726c45bd5091eb2c6f0152c6d41c11e912b059"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_graphite_stainless.json"
+hash = "902c3feccf15d2ab0ac2d07caa90ddd41e48a5ab7b31ecbb23af2b46de9bb3f2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_ice_blue.json"
+hash = "7423e0978cd1c125bc9c42c54b654f37168f0fd2ca6995176b2fd7337c0bbded"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_marble_cream.json"
+hash = "12204cef942a74913723458cb87e0ba197657f3503daec8617e92a371171e625"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_quartz_white.json"
+hash = "eb6167c26044eb0392a57c27fe706439e2271c3a4cf8a70ead50600201674ceb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_rose_blush.json"
+hash = "a69968afb5285445161c089b515022e151aeea069968540a649e5fd536dc69e8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_sage_green.json"
+hash = "afd139c9d0462e9acc5551ba2ea38b9541ac7b2295ba50c2acdfbd80680dfd3e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_slate_charcoal.json"
+hash = "b538e15d35132a4503df8d0f8e45c3ab1f25a591f9d32c96443f92750a4ed81b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_terrazzo_mint.json"
+hash = "a59c769d06feec80032139c94fed2123fc104d28ca8fa7ef29ccf94276cad509"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/couch_yellow.json"
+hash = "d2e843a138a4d0d9292e33c639fb1f6e168a92879c8e40dbda0dcbad70e786c9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet.json"
+hash = "faa1393870bb33dcd42dc0cabbbc35783ccc6556eee235a2be39f441444745d7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_blackstone_copper.json"
+hash = "91026946e376727873ea3f02f6b084b453181144bb257ea6611acd39d1ea461e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_concrete_oak.json"
+hash = "53ffe132619d44a1ec9ba6878fa534a04008cfb21df204f74a591e0e8446c916"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_deep_navy.json"
+hash = "a7b473af2db171f318aeded38a9bf71603129490983328b30244446f8661fbec"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_granite_navy.json"
+hash = "d0d579e663b73f571a304ce522248e13a440eb93345311a2d64e639fb3b687c6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_graphite_stainless.json"
+hash = "95f77f09c0ff40c989e23c7d13b9408ec7ae12d6604bb4612c241468b072d025"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_ice_blue.json"
+hash = "8ccb46e134fa843f07f803481de4ecd5cb925c67f7ba8e4b2cc52aec1ba54562"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_marble_cream.json"
+hash = "6560a3bd5673193035f76f383e07dd87ade14fddac87e6be65dde51fa29cd76c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_quartz_white.json"
+hash = "ab49c274a9bd975b469fcfa07597c02f9b3a9fa0c079c4c2b67c3b391ea723fa"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_rose_blush.json"
+hash = "d7b56bd371bb6f5e85e41d4395bcd135875d6347196e129d447164ae413f3f8f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_sage_green.json"
+hash = "ad701d969e4cdb37fcc2549750143f0d30a57fc0ade0e85e8639ad9e0e7e55db"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_slate_charcoal.json"
+hash = "76b97aae5ae34f430fc10684fc17d3d2a527738a4063eb902fac80302d699c75"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_terrazzo_mint.json"
+hash = "d149e9553cff7fde2bb82bfd62dea12100ab809f7ddb57f6682532c773f39551"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_cabinet_yellow.json"
+hash = "393dece06324311b8db581db9590682863ba89c113a9cc085a7aad7f4c4f02cb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers.json"
+hash = "32a414cc2b1bdccb6970adee455448e23993e4d8799c0258b08065fd3633e49c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_blackstone_copper.json"
+hash = "43975886885e0c7b6c7a3bf5febf6c211f8adc6cd1cc19668182522ea55f0f0f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_concrete_oak.json"
+hash = "84d1a75085b97e7891dbf9f8e164468741cc1f969c098a5d4dd4ec52db20dfe1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_deep_navy.json"
+hash = "2cf13a0f5da2ee5a943c590b27cef68f333c9d55d271c133ea6db5368288f94c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_granite_navy.json"
+hash = "99f79e4186f843227dad8eb2d660317cc1bfd8b476ed6d5c29577ef8b112ace3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_graphite_stainless.json"
+hash = "0677e3128d3dc77f7ac36de9f1e9f5f06e9b9ed9d56aa6825f4bdb1d2ba17902"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_ice_blue.json"
+hash = "828607029e9bc3196453e5a5e9202c1e1e4510d2fd8caf2adc731482a29f2ec1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_marble_cream.json"
+hash = "b4a0824e9b95947ab54b58d13d8bc8be6b95cc3a63e43d038090459c3f060a17"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_quartz_white.json"
+hash = "ba173b8e4a420f0e21f549f2b05b3fda0d75c45a3fc8de9be7af1429db8141be"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_rose_blush.json"
+hash = "491db0b23656ea1d7113362185169a8c155141ab6ce91d45887d58b9f99feee5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_sage_green.json"
+hash = "4957f5b5a52dbc33b7fa8feedc22e27b092045b7127f2879b1a4a2c256ab471a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_slate_charcoal.json"
+hash = "32347ce4f580351e9ccdbc79e64119cc0d42a12433ccc173dd1f80de70938413"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_terrazzo_mint.json"
+hash = "a8a96b1a294dc748c6a1e33787cc76497e5c2bd69e447f67ba0fdff80f0bd160"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/counter_drawers_yellow.json"
+hash = "fd32ba3094d23c055fe6591503d3e7578e40c541fb13db774918872da819ae65"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair.json"
+hash = "4ebb0c22cbccbf574c5e6e8156abf88b7623e52891a7cce9e7f9884825649c81"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_blackstone_copper.json"
+hash = "03f47c689d91e4df36db77a896e229fb9fe26e674bc0b1a6f9a6ad4f452a26f9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_concrete_oak.json"
+hash = "be2ac0179b2e99bfcd2ba0b24182b34e4ea29ef24a308bf6d916fe2d69dda12a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_deep_navy.json"
+hash = "aa3efac00ed14e2dd959dc4ff1033b7ca0907030a1fa1a9fd08d1083cc965200"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_granite_navy.json"
+hash = "7a35ca54c4288a82e8d234854e129b49e42419e50bf8a2519d92ab5996415287"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_graphite_stainless.json"
+hash = "2a2202072258c64cdf5444d263913070a790222a868255f9922540c4d0f304dd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_ice_blue.json"
+hash = "fc85d6a52e853630a5b7c5216c37f5876a884eda0f96c097afaf3827b48f3301"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_marble_cream.json"
+hash = "1f9f9903da9151354b166b211f0d9e03a119621f2af13e354d50919e7a13a739"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_quartz_white.json"
+hash = "b7de0faacf15773b915e288e24dbc0012fb7001d73d2e1810ae1c634d7b6e02e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_rose_blush.json"
+hash = "50c462a2a8e0f7dd8fc76808296acd96112c56c61bc3473d46cb8815e8be0cbb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_sage_green.json"
+hash = "57a099a131b82fcdc1bab42ba7c010dcfa90ec045002225534299d5106b48feb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_slate_charcoal.json"
+hash = "5265961bd5e5d0d6839c1c2283ec0c60f042af6539d7ad6a591962e32a3c235f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_terrazzo_mint.json"
+hash = "02330dfb9c8de69f29d3382068846982a866c3eaa1e64cdcc616064d95b46ecc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_chair_yellow.json"
+hash = "106b11bc6edfa9e5b2c57d1bace5a167a692490fbe31939c3c66a75f7c35c1c5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table.json"
+hash = "4792eb4a83c8b15aeae8c76cde790bfaa5f9605c12abf9b8fc9163450e70e707"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_blackstone_copper.json"
+hash = "b8e0bdce6586dad99b545d617ce6b51013731a2d0126e8f1e6efcfe7479bd63b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_concrete_oak.json"
+hash = "17ec79cfc02b0aac6abb3ca79e4f92f2c5514302e64606500c6001b2f5f183a6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_deep_navy.json"
+hash = "ed115b4c173fcc3b84d8d0dfff45e9dde719cbf6258eb3f1cc1ceaaeb65121a5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_granite_navy.json"
+hash = "c0da8b741753d1ddc2617ac41e002e57da90e5d579c3de336cd9ce0dd8eb15ee"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_graphite_stainless.json"
+hash = "787efa4da53c273b833e71a561bcb3d31b1b0dc291ca061e3c414a313f83694d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_ice_blue.json"
+hash = "b4b090ddc1ca07f91cd5a7746fc3f01df6c9195a2d2cc0527e0e08c16d82d571"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_marble_cream.json"
+hash = "481e92ce7ea40fd9cb1dc2be153b440685db4d2ae9105497e3646dc42f973ec6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_quartz_white.json"
+hash = "a49f63b8cf54649c0083336631de341555016a04822f164c346a5bc12a8ce407"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_rose_blush.json"
+hash = "ca89b006b5ada3c8d84bda6fc3d7d42b57e98ac2cf61ad546da0fd768bcf8517"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_sage_green.json"
+hash = "72948d0f0f1adb9b4cf069e14c3815de4ebfd5497e02dcf09481feb54a68cf3b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_slate_charcoal.json"
+hash = "37fdcec9a61adcea6153057db87ebb1de8fe386ea6db3551205ab59938a63036"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_terrazzo_mint.json"
+hash = "1dbca2774ecfa0db851a75ed4ca6b5e2a88c6103591dfcc6bdcc9436727bbef6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dining_table_yellow.json"
+hash = "0cd7858c88e480300a454a1b9ca8b70dc941c7002769183d11f304ef81732052"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher.json"
+hash = "0cedee0cba23d93e1dc55dece4ee4ff7f2c1e0edfe800cd913787e10898da749"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_midnight.json"
+hash = "33c3e75563a55521dc4d50beef4883d1dade85609ed2e54fe351896de62e6537"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_mint.json"
+hash = "c6862bcf9c3b91984ce0c9f96e943fcb17628ff164267f62fcad909f449393a8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_navy.json"
+hash = "ca3abf03505d741a171e5562d4f587ad5e28bbca14faef1d9ea4d0c85dbc41cc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_red.json"
+hash = "4f47004d886a102e1dec98b1f913cbd34d9b0b0d46a82066c534bd068a3a0923"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_sage.json"
+hash = "d8b4525c174e8e514c1b78e48fce418a1c5adec4bd68703d9fc98132bf6b3eae"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_stainless.json"
+hash = "d17e0f782fa038ba910bc5a1396616f1c2f242407bdcd2f388c2c3ecaca407bb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/dishwasher_yellow.json"
+hash = "552203db24f5286eafd2c04fb40c0688f8fc81cedc1df6805189d5e0190d460a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge.json"
+hash = "faa5020563d1785ec1fc450831858d134a5dbcaaa909364ecdb3f35d1a67deac"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american.json"
+hash = "2b1a0128c262c4c04e07ab5189c6e586f8932f8696589f649563aa8cd99c8a8e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_midnight.json"
+hash = "1f5490819852500c4f384d07016f459b973a50ea451a11c73ae9e39a96530814"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_mint.json"
+hash = "d7a33f0a6f0d5bc71af46e3d5b07759a2467dc3a632483a2c12dd6beeccd73c6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_navy.json"
+hash = "a28bf33ffb2bb8b271544d3536ff4822291226fbf6d66dd2694ee7a52129688c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_red.json"
+hash = "b84604a0ec7044f89601b3d1a1af0109d593a99fc53fae8fd935cf5c5635e8dc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_sage.json"
+hash = "f8de1d116c80b1ace008e773463cc7ab1b162a79181864ca7669fec4ae19dfd7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_stainless.json"
+hash = "6d142af0a56aa996b01845324264d87b27a925d519d21eef9cff89946ad82aec"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_american_yellow.json"
+hash = "d38f64eb52c3b6ed1cb9096ba31d89139ac4c673302c118e079852584d38624f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_midnight.json"
+hash = "b8c33ae70a7fe05d77e5d95f95b8ef9e9b33af07a41fa22056b5d2d5edcbbfbc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_mint.json"
+hash = "3f1fb5ced98660e80ae8c2ca0d9297295d195e28e1307026a16db29e4dddd43c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_navy.json"
+hash = "4627f001604d8811c2c8448293f34faa533f6df71a24c8b69b5607d44221c858"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_red.json"
+hash = "a7e461277188832f43a840b552e20729d109bc4204bbb0e6548cd11544b3425d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_sage.json"
+hash = "398d5e7c1c8abb510f99ab0e8d5fe3437f34d1f74870ce8e5df2afe008412838"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_stainless.json"
+hash = "de3933a1789b9932f3128f3273705abc01b8c55e6adc0b0383062eaaa747fccd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/fridge_yellow.json"
+hash = "4c5abe0bb92148299c07ba39a2a2eee7ca2b54407a79fa9d2bab85eaf11dfcd1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp.json"
+hash = "103e0bc48f206943105955f1a1c8db262011aaeee9404955df87f1876d973d07"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_blue.json"
+hash = "b378765940488f5ec75c84aca00c300c6bac9eafda3fd1b7d3ad463736f2c325"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_green.json"
+hash = "46b8942f3c73646a5ee7036ee7d74ecfc83d5934f9d6d745242c6edcef71a500"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_orange.json"
+hash = "6d43f1c824cedd9269b4cd89f62c6e25b3af02f1366fb1fed56bbd58b88e0015"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_red.json"
+hash = "968c103d7919948dcae50c4d433d74692fb8b9ceddd703c6a049183be94e7ed8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_violet.json"
+hash = "1ca616047db8249562e36293f1943618c12cbeb703ca6317dc9dfcff9d3f1c59"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/lamp_yellow.json"
+hash = "072da323f483964b52d995a8b8128d87fd5662ee04b26612026d0315e18f476b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave.json"
+hash = "244905e3c426ccc26b414b0a1e7f6f483f2d44973138c3592165c26a356ded1c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_midnight.json"
+hash = "c64bdbf894602cd6cc31330002b3c95f4a7eba39e37b0a81f515b945f562d5c7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_mint.json"
+hash = "951606cb44d35ccf06706290da8a55ebc76c3e1b8837991657c64cf13e450321"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_navy.json"
+hash = "aed72d712b4973e22d6ce78263930fc4c1791c14553da0a1ca1be148f696f8c2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_red.json"
+hash = "59a0feb0e219da1b22b64a2737e5088d6a3fbadfcd1810b1cc6c725b40989e2a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_sage.json"
+hash = "2bf5931e2598afe51195d8c9038adbb1db67e0a01e4ed7156fe9d3bdba88269f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_stainless.json"
+hash = "65d444bde820a6ffba04bd59bfacfcc2bcd4c033ccc9fc251a4eac529ea26c2e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/microwave_yellow.json"
+hash = "87e7ab7cbbfda919971da3f7663160caa938c5e274fae4e779d94f2f81d4d0dd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/mixer.json"
+hash = "33a2039c1c64cfeedd433cde958e3ef7aa08a2d4894cc47b156acb20839716b8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/normal_glass.json"
+hash = "dcbbaf79249cc509910fb6d41fa834b489c368bc83c043bc619b2a96c3d378a6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven.json"
+hash = "5c8b367bc9226febfe691764798b3703e591938b0a81193c311cacdb764f1110"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_midnight.json"
+hash = "11d80b8621681fda1120f1068bad90a678b89e484eb3e332f594043ddb1cb530"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_mint.json"
+hash = "0a045ab822776219dd204f753b2ceb2a8e7077a348c28f2ed19b51c86413d39f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_navy.json"
+hash = "d32a4ad0072bf769e2778c8c683a6982d3a902c92298da9bfcb1cdfce2e64047"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_red.json"
+hash = "63bf728eaa9be376173284ab9ceb63b0d5da809b19faa4d17ac1643cd968412b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_sage.json"
+hash = "7204326d33edb6e88458447530ffe021db1dcf81857c2b3d470e37d9964928e8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_stainless.json"
+hash = "52c076981ebea287850d5061286e3ea92ed522057bcc8b8f996bd3889142d246"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/oven_yellow.json"
+hash = "f0cb7f0ad1039365a9759cf6dff32c46b331426f236f54672687d8c8cfb18d7d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range.json"
+hash = "a6e29f4150996d5a282b9f7ed8ec0e984267feeddd54118da792a68943cd47fb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_midnight.json"
+hash = "020591d35e67a7865a0579e409eed381028ae8e0858b370649f5e557a916bbe6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_mint.json"
+hash = "26f3c4d17ae6485d5d24fb5b85f90a42048440b5f3a19130ae4fddc6edcaa57e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_navy.json"
+hash = "c482cc1a925a34c24c70ef6c6f78334c6ed797a43810326080e7b8c7d5f0660c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_red.json"
+hash = "10917767c795e76f6a76802a5eea12e9ce132e325fe2b9cd4e5c25dc2917ef8a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_sage.json"
+hash = "759340ba79550af795e8818bddc08e462e20377537b5e428b90150f7a4fb4c09"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_stainless.json"
+hash = "9c75e637a5e8ed157235be7d659724a31a0631f1e32203287febeedf936a946e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/range_yellow.json"
+hash = "765f63c75d1c7f925ea9bdd273ce115d77e31fd1b740bf7c6a16e4f14306111f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sauce_pan.json"
+hash = "1a34ef0b00689ac3ec0cb3ad092e2f8fa8708ed1d63a86f5a3c562d775e2a24d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/shot_glass.json"
+hash = "85bfa2266a4eafef0dc9e637f838cfc719b4495a532ace8e16f5557464dc3594"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink.json"
+hash = "2f9528231e6522449f85da05bafbceba070764c5bc05217ac833cdf8fd030970"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_midnight.json"
+hash = "36c5e0269157149b3de9c2563acf04561d637c6376c6338025ca04b785bebdb6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_mint.json"
+hash = "38d2d7c9cefe6c5f3ba75b0281b42b745f362714240474f15a6dc1d118e89dc7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_navy.json"
+hash = "d77db8152b4e09b6fa373018d33c029dd2a0725894c7360c09768b0f6f104f66"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_red.json"
+hash = "bcd36d0de88fcd5ead44f021e838a0f21ef7947b04814c40fc261a695118e5c3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_sage.json"
+hash = "78bf8fb3ca1db7a783af0c794da8acb639c1d61cb4c602833924735f013f8b40"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_stainless.json"
+hash = "69a1788f18e2763228bc4bccfc8123d183dc0a173ff9dad938ba9026befe46eb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/sink_yellow.json"
+hash = "47dc467cf513f92d9cc17923921ba03868edcbe1cd1a7fc025f655a6edffde40"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/soda_pop_bottle.json"
+hash = "53d43596e954de3c27a45719b579827046f55f10f1cc0017682b58312157e20d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/spirits_bottle.json"
+hash = "bfa1a75c057f20d11695ca9a0b5565dea05c0636be1da9118b49cb9c7e4bdf23"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet.json"
+hash = "74baf84b5cc2945709b87086780e2b97ae1c4aaafa655905ea3ca1846bc7e718"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_blackstone_copper.json"
+hash = "a680caae5abc7d5b72c104c14ce97401a781a629af037dad20dc22079fc6df55"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_concrete_oak.json"
+hash = "5a42ac17509bb4d7cd978ce8ec6186dc4be2ca24437b0a676f01be73ed70359f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_deep_navy.json"
+hash = "976a4806611a2ca84673c052bf2918846f68b0e8216a4bf0f542dcb3ce80d922"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_granite_navy.json"
+hash = "96dcef79d040c18e3f6c3e4ee2b5a6d760ae1254680d8e620f0c0e4d8bb6ec9b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_graphite_stainless.json"
+hash = "9672f339b17f01322e67e8723146c92bd3f22bf47956fed3b509f98b3e95e9a4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_ice_blue.json"
+hash = "e4b04839bb8296b82ece72fd26354591e354b3814bcf8cb6539928104118e043"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_marble_cream.json"
+hash = "8b6bdd60b0079c763d397a0ffb5eba755cc3bebf9dd172412b455a0177f285e4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_quartz_white.json"
+hash = "a0825979d912e676c6927ad75cf6ea2b9d3e42da1747c319a7c9adf3c5296210"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_rose_blush.json"
+hash = "d4035b602eeadf07d8b9556177a8183322aed9290262e3255735c3a52a15c076"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_sage_green.json"
+hash = "e8eb25d5aaee124043ee6f2eb3fd48e3c25f9dae380b1ebadac7bfee4d500f7a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_slate_charcoal.json"
+hash = "de39d94ca4b99d90ce9d66c1f8ee14429cbbde0a964969e78b83dea089da4eed"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_terrazzo_mint.json"
+hash = "8618fa1dbccb1ae252362c7415792cbcb18c1e0a03c66985156ce54332569f41"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/upper_cabinet_yellow.json"
+hash = "8e286b952b5464ce06467a92a19726fc473358d19a21f914069d1588ffcc965d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/water_bottle.json"
+hash = "3bb627f805cb446974627738183d56ff182f40d185eaddf1b7a854a416b663dd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/wine_bottle.json"
+hash = "68cea9a17c3cbd6c3ad605a8b183c09934861349b352deca25d23d2f200b9a4c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/loot_table/blocks/wine_glass.json"
+hash = "3859b6596c5fc43f64e8f4919840c7f50f2dba3bd95f41151d0a5599295850c7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool.json"
+hash = "5ff1576f3d6c38eb70844dc4b232a3c98d428c5b051602d8dc2cb2dd8d2dc0d2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool.json"
+hash = "3fe98f98c078b1d3559723c20c2b0bd4191ed50811d3bdd73fdf1a1018b3fa4a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_blackstone_copper.json"
+hash = "0e1cef2a247654e89e163b569b460cc23e10da988ca78d1939cf6738d833464e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_concrete_oak.json"
+hash = "fe72879033e48b57da9d07a6cfe6423583391544c3bccbc8b6b838ac16df7259"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_deep_navy.json"
+hash = "fdc80f8f2944645182718468fe39ee0de5301c44dd6b355f6ce23bb0926af55d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_granite_navy.json"
+hash = "c0119e90a3af916933617755db6be61365172704c8cbdee9ac783afdddc4f977"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_graphite_stainless.json"
+hash = "124fecb4482130555f8bd27e373c9b60c21a4fd51ccd0942678c0f34227044ed"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_ice_blue.json"
+hash = "b166015002a0871e800b4818497b6bb3e10a1369bb3d2df23f22e1ad06d70777"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_marble_cream.json"
+hash = "884e901959a04cc99d7e21b96025c8dd545f4114749d0cbd0f0e87ad0d1435d5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_quartz_white.json"
+hash = "00280b2e9f93d7f0967ebac55d1bab27120d9da2aaa9752daada57febe0d569e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_rose_blush.json"
+hash = "8da10c3b1bfbea97fb7d06b4dd61d85ff0aad22d2e2a8a6ee5e0430b4a69118a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_sage_green.json"
+hash = "07e246b46464387cc93ccd19ba36b6ad6de75b17da722eff70ac2c53ad560440"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_slate_charcoal.json"
+hash = "912a14961c4bc729254ec56cd288aef5de47b8d2561a407ac27cbe9542701446"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_terrazzo_mint.json"
+hash = "35deac7795292f959d08520ae83389f630b120c5c912cc9fea54e346a0c21817"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/bar_stool_to_bar_stool_yellow.json"
+hash = "29fe0f0072d482352d1d01843db077822a89bf16813724eb3cf9b992c9591914"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/ceiling_fan.json"
+hash = "c85371103a0b7435dfb7a30d584ea85b089961ea59106ea25f8389594e4e44fe"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/ceiling_fan_light.json"
+hash = "fbd56a2677f1cddc1c29456ee9ee0f8ec712dcf756e6fe3a3612c5fe0b864f4e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table.json"
+hash = "ca15a91cd2f8eabb0956441ed7cc93065ab66fb7dcdeaccd38c730916dfa0938"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table.json"
+hash = "0e5b9d120720baa6a7c26e9575de1498f648d9dc7d75393f379ca9f909234178"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_blackstone_copper.json"
+hash = "5dd86525cdb56502eac6ac235405da1e2a7cbf8f10504b424cf39a1ea5a27c23"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_concrete_oak.json"
+hash = "607c97c7e3b238fdcb6b10d3cdb803377eb7c309ded29b87b20ca0487f7160df"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_deep_navy.json"
+hash = "036ad9318d0dd6a3dd215fb806712d7a36f0babeffd0b9d5da12b0176679e5a0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_granite_navy.json"
+hash = "ec14103ed1be4ba2f007e1cae554321ac3b38cfd86612b47d85c39917c7b0a9b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_graphite_stainless.json"
+hash = "a9031c65c1dbb85f76f47e103507c7ed6b09eb117e1edfb2488c9030704ab266"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_ice_blue.json"
+hash = "752c619680cf84b5606a51795794d85df30ae7ff1dd39a5f4433840d5794608a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_marble_cream.json"
+hash = "8dc9ecf6bcefcc50fff9ecc79886d4180b0376c6508f90ff4670fe0d7c870713"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_quartz_white.json"
+hash = "3821b6cdd062cdef7c18018c794ee9581cc965e924aa705222529636c69a24c1"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_rose_blush.json"
+hash = "35d7b09a5753f5cdb9464594831962270415e01709b9885255ae8dacb3a43954"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_sage_green.json"
+hash = "fb20b53979f5031249be57e4d542ecfe5fdb55219885ac8a3b4802a7439fee7c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_slate_charcoal.json"
+hash = "5c9691efff90f0d08ee657e6407a2b3fc46c931edb5d0bf545536c730c5938c8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_terrazzo_mint.json"
+hash = "26c03ae54836e2ab2b9deca6b5d29d9aaaab42d6bc918c7b8aa5361927a88978"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/coffee_table_to_coffee_table_yellow.json"
+hash = "7c4d4557709092584915414376de250e511f013a71c5674cf2242388064a5fd8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooking_pot.json"
+hash = "2936109af297e99466f5188966d620097bf4fb0e85b1f10a345af79856f029b3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop.json"
+hash = "a48fbdde27bf83e0de7bef26c25f1099612d39ef7ca3349f8694e19171021d00"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop.json"
+hash = "f7a1688e2a9a5cab6dbc05cd90b3f38ffc5bde208435f0e730a735528a69c556"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_midnight.json"
+hash = "e4f3de5d21ae49eb87602b06f3e6e7082faf5dfb49511cb8e3e9a63ce30653a6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_mint.json"
+hash = "a25d0b5e0e5b70bb0d2915a6078168817103738ea1a5baba591d637b09cb2b14"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_navy.json"
+hash = "d02830e10d2a64cc1192007c2c9e53a5d1989962b8298c2aa1f27bdae2b378ca"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_red.json"
+hash = "d5e618feab895787f0f304bf6f03676ee8f4958f2f86ba2fa74960b945ff7719"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_sage.json"
+hash = "ea8aba9ee27d00da06cbcad84918b467caeffdb721a6e0dc9f93caf92c41edde"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_stainless.json"
+hash = "3a2880afaf1660daefb347c45576e97b54eee3b86af557a83bc7d55c62b221da"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/cooktop_to_cooktop_yellow.json"
+hash = "b634bd09044369c45700fb0459a7d6fae6f8f7238c5d51c071d94f86b73f8ade"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch.json"
+hash = "069c68b4ef60e325ce88ceebac5eca39e92161b7ed41a96966f8777e38164199"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch.json"
+hash = "0c3922d73bc05c6e7215bc0b3f7ecb704c81427bff0f6d8dfb3520d0eb58cd13"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_blackstone_copper.json"
+hash = "0744badbfee6122353b4bd3596183e9c0f5437f9dadec66a2da9c032df1f90e0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_concrete_oak.json"
+hash = "3e09487732b91402fbfced0d5fe9270edeeed8c323d1b7420c463da1641baf92"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_deep_navy.json"
+hash = "bda7605e608374e8672a60002a3f535c26651e535631b3afc47c90b85450afc5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_granite_navy.json"
+hash = "277fe898e78e22f45439437b93ce8c614d17f0a89153ccbce160fd2485bc3569"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_graphite_stainless.json"
+hash = "d373d1e20959fb3e54a4a949ae77e00461ade0f9c1291c9732ec0fc0d1d4a3d3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_ice_blue.json"
+hash = "a1619078cf6e3b295c762c62f5040bc36e717a03ff91d4a84914608cb2757a6e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_marble_cream.json"
+hash = "3c1197fcdfd11785c3f81676ea717f9c1039be1bba53fbc0243c8e2705aa5d9d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_quartz_white.json"
+hash = "4d3cea669f38430a2e432cc65881498cd422ca421fb23086c7d4a3bd01c5bc1a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_rose_blush.json"
+hash = "56619e8a724d5920a2a10bdad63064da9fcfef5e48d98ce4d9263fadea61377b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_sage_green.json"
+hash = "f8e641a3c903d14f943f857032e86e23d489e02ed198228e4692c3fab7e81faf"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_slate_charcoal.json"
+hash = "caa49f168b05a7629df9c78595f9961e98e285eb9e2efe105891b9c94d3be03f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_terrazzo_mint.json"
+hash = "288e35409516b2b1dfd574a50aa55dedfdb2100c2342a35296130849185a9328"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/couch_to_couch_yellow.json"
+hash = "47d6f1fbc404fb70862cd9e08b4c29c283ac3d358680842ed04d45e5b3cf7b5b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet.json"
+hash = "acf06c85cf888934e7dfff8a2c3b9a95d69fb10747577f90ab61def98dc1ba27"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet.json"
+hash = "f00c90fe50f98775e2cf46aa76cded31b05d71393f7febe1fa52473ed3d1e887"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_blackstone_copper.json"
+hash = "3fcb13b716eaf1f10b7faaf9ab3e8513995722b07e001705b8550d6f3b4bfaa6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_concrete_oak.json"
+hash = "c2746f080b98f9704d3bd571808abf77ac507a89bb7256ce9122b4f1e99d3faa"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_deep_navy.json"
+hash = "e42214dd7c8eba6d8eb88559037cd8e37d62b4c7f7a809658b6f0d2a98c10f00"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_granite_navy.json"
+hash = "5bd96691df31401d7cdccface1ddda9b46e507fc621bd44e86c41d34c8b734a2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_graphite_stainless.json"
+hash = "9ab8d17963728e0a5cee98b9b4277f7d17d8aaf6e9e8c7047321452122d50b65"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_ice_blue.json"
+hash = "3033ca58e0e2b4b32cc6f2ef4f7c7c887b151111faa454fa1f8d43cda9b7789e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_marble_cream.json"
+hash = "ce1202b1f8b20fa16b863777e3f5917c9814e9c61851486b4db959265d332f5d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_quartz_white.json"
+hash = "433dcb7ca5d28d239e3a7a024f163a1080f86ec61b2baa80ac7c4b3c1c9daf6d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_rose_blush.json"
+hash = "ff17bea8ae68aacf4cfad056cae807b8875a40b38bc066f8d6ed016eeb5420c2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_sage_green.json"
+hash = "635d5eebeee7df85b382d2e7f359bf2be82dff4c9ba745da951154b4e66b89ba"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_slate_charcoal.json"
+hash = "7ff1b35e79e16e8a841aadd7b2bee89cea52aa84eaa6a93cc409bbb58aadea46"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_terrazzo_mint.json"
+hash = "17dfd9e990e6327083894755471f7a8791767080ce07d9a2cb7690d6bfeddfe6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_cabinet_to_counter_cabinet_yellow.json"
+hash = "c7afb82a654e6168d7ee11404b291a586f536cdd6cab7cb7638e1886f13f4100"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers.json"
+hash = "eef3d04a6222089906ec0602bba73aa183824dd4e8f159a544f1a2d83e9e6ee7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers.json"
+hash = "9c040554ea456f1cc5d2cb8b3390c62cb75e7ba6b25dbccd872fd09fa025dc1f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_blackstone_copper.json"
+hash = "00ad2228b1e8d5aebb07d6a38f1f03439537f60c8343055ccdd00e3d30ff8c33"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_concrete_oak.json"
+hash = "a23eaee51f0912d12e44ff8b73d94d6efbd6fe05b7f8a4f27d6d0faed772d4fc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_deep_navy.json"
+hash = "8437708aa2b49ef77236d953db5d7a695d33722d89a8598ec517bcb637d61ab7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_granite_navy.json"
+hash = "647cadc0f9513fe740742ba8ebc81e1a5fe3fd65869cec3ff3b285acef39a765"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_graphite_stainless.json"
+hash = "9a1cd835ee6816284aaca1b884253d715194615857d3d4201f2158983c9ed82e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_ice_blue.json"
+hash = "40d2d7c3acfe498b8aeaae4bf10e469d3a01af0ee079d226df5e8ffc59735bd5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_marble_cream.json"
+hash = "3881770d10c6efb855e022a1683d9223c5400e3daaa14c778295e1d9bbdccdbd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_quartz_white.json"
+hash = "4c6b8afc3140240248cfea0625d04f42875d44bcadcbf6b97ad6300316c413fc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_rose_blush.json"
+hash = "68094c1e558ce816fe4f08fb0399cf65a5f8bf45c73c32071b99968aa8821841"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_sage_green.json"
+hash = "0f60616721a833b1fa38c9e1109c73bc53daa8e9e3666f5df5aa462adff37c70"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_slate_charcoal.json"
+hash = "38d65506c0c04f5a165f73867af7885f512c1bbf586c0136c1c020a1de0ef668"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_terrazzo_mint.json"
+hash = "1348cfae629f42ecc05a7e36e414fc4bc775fadacf19fa3840f8d122777f78db"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/counter_drawers_to_counter_drawers_yellow.json"
+hash = "865c6dd8a4583f4e6e4f114c304f5f519069528dc0ffc8e00c939f49b7b942f4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair.json"
+hash = "f5f80a13da1dfd72621065ecbddfecc6111a0ca93c51b4e29f7061ca83033d23"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair.json"
+hash = "438301eb30d26c05b14875f5dc3e9663526b647925024b53caec058b79152923"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_blackstone_copper.json"
+hash = "0fb2f72d388bb9d05fd17a6fe8e1121563cb37ff510bca6dac81f0140dc59d1e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_concrete_oak.json"
+hash = "e9b53415147a3797024aa2163237dd0a949b05a8e20c131929f5053d7d0a8ba6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_deep_navy.json"
+hash = "909beb633b7c2206fc5d5ccf5890c2f2df267e12f94df3ee01e812c5456b1797"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_granite_navy.json"
+hash = "95f9b4cb5136a9a4fb2b477681b0b7cfb8f62bc5eef27447c712c732c996e302"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_graphite_stainless.json"
+hash = "2c87ad0cd8e8b78bc45e564b63907e158b2d7e3a6c1a671bb2e41266c0c4d2a2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_ice_blue.json"
+hash = "853c33409b8cae87b743ab3ffae03aeee0e3b32be38396f22c0cda7a8a175a4c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_marble_cream.json"
+hash = "5e37d65a8a4201fdd20f4e2fe44e83e29946c821c264db9faf3eb9604dd1fb43"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_quartz_white.json"
+hash = "87b422fbd8ac2a016cd7eb5319317cdc5058d33364c9d09cc3fae0baaa32896b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_rose_blush.json"
+hash = "c8e63b977e09b608bb1662d769f9ccedc27b9cb4706e561cce911f64bbe6e9d3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_sage_green.json"
+hash = "901294912ba71d9bdbe13d9500c5444b519dd1e58dbd5a2358ca87c2f01cd234"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_slate_charcoal.json"
+hash = "8a3108074588b862e853e94e520cc3ae5bb2f00a6e6224d1e9926a89cbf5b871"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_terrazzo_mint.json"
+hash = "6d1f6ff1bc20bed518c3fa629bb23baa68b42147a966afe81d093511acee4a1e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_chair_to_dining_chair_yellow.json"
+hash = "138c00c40b7222565d8b0ade5f4bb54fa5976a1a3d87b2fe398e13afb2e3c040"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table.json"
+hash = "c72dff7178ab4523b70cb1700f40fcf3c32c059c453fce2a9bdbf0a6b067be58"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table.json"
+hash = "175d8b640fff8d4cc4fe437bba2e053373d1ff397e630cbeb1ad4d4d6359c82f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_blackstone_copper.json"
+hash = "0d4260c8caabe2565f910fda8df297bdd7beea136205117f097a040b1a8882d9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_concrete_oak.json"
+hash = "e3c25a71c8b9315638b78a5ce15281b6341163b415af6b1362b8901b70de2bdd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_deep_navy.json"
+hash = "f482ca3e7f64e83afc28c916371c0ceeb886141a2e4706b3722bd8b27ef82c25"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_granite_navy.json"
+hash = "cab15a54d7394db40b68ab0053e953867d7a67c13adfb8a41c7df2dda2985f7b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_graphite_stainless.json"
+hash = "2fe958557a5074829e9aff25ae7b4b4a755ea63161a3ccf25ae493fb0f5fe443"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_ice_blue.json"
+hash = "e57d9ac7761ae1313e7dd4c2dcb4cde2c3daf9f78e05f7fac12edec347e7cb7e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_marble_cream.json"
+hash = "bbc29fdc2d04d0c2782c5df82a843c655fa49ce7211564f520f729c3d52c76c3"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_quartz_white.json"
+hash = "d33e831f69167887dc733c136503774927cc36d94a709ec8e641366d9afaf350"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_rose_blush.json"
+hash = "638c64ac0ff83a32c2ef7477b3c63ce0542ef2077d278f34f91251dba7ac39fa"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_sage_green.json"
+hash = "363cdb4dc237ba0bba2d04df757b6aecbb3639f779bdbf08556878051871b23e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_slate_charcoal.json"
+hash = "f0e0723fa7120747f4ba0360e0678667b09dd9e9f5047087f1cf6260a744637e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_terrazzo_mint.json"
+hash = "603f09294ae9c9f03dfc252794be2e7b1bcf58acb1ff7d67f8731ac91df1ec3c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dining_table_to_dining_table_yellow.json"
+hash = "fb0d2d69bfa8570b2af153973f8cf86a207ea9d3b651dea9e777630409a1c713"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher.json"
+hash = "22bb99713d0008028222bce499e91e4cc7305903991893dbbdc199a09a5ee51b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher.json"
+hash = "b9549de96c83a377771f60aa7fbd969c5edeba46d806ce1540922440c2cd68e8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_midnight.json"
+hash = "01a099a3d715dfc08fff9baa620095f98d341037b1604b69c899996d32fe5547"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_mint.json"
+hash = "5da247c807ed0a528fa22bc6b6031f5a92a42b5d113d58e7d19e7d9e1e0c8fc5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_navy.json"
+hash = "1adfb56a15b0fa59f9b7dda43d894022abb9dd361a55460c256852b4a5fd1499"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_red.json"
+hash = "2f6292ef106e6debd1446acea162f73f302bd86a0972caadc677099a616af586"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_sage.json"
+hash = "37d6420796df9f2d503367822b8cd90f6f89c6885c1faad69c28e831ddc34347"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_stainless.json"
+hash = "4d412a72dee3a5882d85ea5d90fe7faf15aea7586317e540b5d8db1773bb515f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/dishwasher_to_dishwasher_yellow.json"
+hash = "349e124d8224feae9de6e37716c9a5d73666e22d35f805d22fa7c17a3b573f9e"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge.json"
+hash = "6173b857352583cf0a304eeb25e5b49f6918c4365dcbda9ad904d6e65f999da5"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american.json"
+hash = "91595e0e05f7748ef475374e76c3d62ac1281f0544fe03e42f7e4770378e5f30"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american.json"
+hash = "634cb510b7d0ff282ceb1caf154549b0b28949d2717941b72105b2cfaa1f988c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_midnight.json"
+hash = "02772181085d49d6c7b66f94ee9bdcd669a97e3b91e8df18024dc90fe0960586"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_mint.json"
+hash = "a5183e6b01e9e52f82b5c3645fd55e418eb45c7f9b1c76d7cab8086f8b1af361"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_navy.json"
+hash = "a490b62556b0d5a3c49e71d01f7b0342395fd3d66aee682ec9c6824bc3b21513"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_red.json"
+hash = "7009605d31d509d9a5a7ac974da72564d3d9b213ee1e71908fefaa2387b9e657"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_sage.json"
+hash = "8d9846478cf4b54f0ec184e54b345076580f0ac4532f9fcf2a7ea0cc5a134187"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_stainless.json"
+hash = "1103d0cd42f0b8eb39ec96d5404a64fedfc54a2f994210b7c0a805ff873f997c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_american_to_fridge_american_yellow.json"
+hash = "0362f78e5e8318f6712043a31f14a9fe6892113026f569b84960c26777a2f677"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge.json"
+hash = "4b9477d490e7e2e7cec3c3b2c3929508bec084c285dd73767e66abcb50caddc9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_midnight.json"
+hash = "f2e92dba000e86ceaa69d56879cc94df4a056e12b37e46b7c8b7b1b58d12b860"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_mint.json"
+hash = "e21daea748521bdf501fceee2c7abe5089cf29ccf23fe9e292f2ea9d03601956"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_navy.json"
+hash = "5b44350b919bfb72d914aeca056b3050dfe3fa1e1a40bb54c6eb314b74420af7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_red.json"
+hash = "d322e732d0d6a4cb1580fdd88aa6a89c189ed655793e9f842fe56ed18e91da47"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_sage.json"
+hash = "b78646a33e56dc4bce8a9028ff185a7ba628f276a5a2dca8dbc580a8be379004"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_stainless.json"
+hash = "0cc70e76ff830f9cc7be70ff60392f24469d809a6be83873d114cf1f3ab73c21"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/fridge_to_fridge_yellow.json"
+hash = "0ff3c5e24fc748b69b0919cea8178b6fcf4201b5c6640fb6a03478284d392f62"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp.json"
+hash = "616a3d650604754b75fa20e90e90e3dec9071b962385a43aa8a785ef23bb7d88"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp.json"
+hash = "894c06a711eda1a89afcb5b725b2babc66b44da90349e2c1ec312742efede989"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_blue.json"
+hash = "4f65db0168ab25ad49d1f074d5b3e319332d5681a485b72d067ea709abc6c24a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_green.json"
+hash = "3b7dcb9d2714b9d4c4eeb359c2b23358651892646ba1b06bb2a2eeef3da4e473"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_orange.json"
+hash = "bc38054d27ae311821372469200b2ea2bb6b85f1e060ebfb35e34139251876bd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_red.json"
+hash = "1df7f73ece45835c277e46be0a42c263f2f23295e2e5f4468ef59000e481106d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_violet.json"
+hash = "1671ef80292709d6f1f9a5d76842b03109ffe91cd3494cdb24a33bacdf65914f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/lamp_to_lamp_yellow.json"
+hash = "4ef67721173d13f4041ca45132806efc9b765d5b46e2fcb707fcdba64cc23841"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave.json"
+hash = "b686a615ec68b148b6ab6f41460117be86f4907db08ec1e2d2faf5b54be47bab"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave.json"
+hash = "45b0514bde741bb57cb6ff05a5fda91cf02d4d4c38ebd95dec4bbc776f98e34d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_midnight.json"
+hash = "f5d3d0a4fb977ab32a051f5821a762c2d4a423d02a7921da96eee32b984be22c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_mint.json"
+hash = "a49eca5ab415fa2eab55d5993b9ac4b42c3c5cd401b0fdf454b99f811cfca544"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_navy.json"
+hash = "40bd3ba6fd72b572154a3c3a1965d72b80f5709a3c98b4802cd59a587cb0d7a8"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_red.json"
+hash = "206bc4a9779e7f327b78e2fad8cb59e22070b12ae400305f14f91dfe1d2fe277"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_sage.json"
+hash = "972a5f19149455e88462a6c3d5883a4009064540283b1e15730b08d28a888ac4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_stainless.json"
+hash = "0845bc236caac9084ad3692a7a4bded7fa7df2be2aaeafe50f8183021d5f0813"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/microwave_to_microwave_yellow.json"
+hash = "e5d8c09071ae754e09b838de44cae1e23163eef08e4ccd4f0eada69888d559cf"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/mixer.json"
+hash = "d7f4fbf549fee5bd5167ffda06f0585c5886575151252ebc02050dbc05006ff4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven.json"
+hash = "95083e945b781d26477bff68d2754655212578c8a2ffad13453b4ab9bd39e3b0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven.json"
+hash = "ed42a6e225eb7ca044c1c52a7f0873b1f05d89855641703d84f3aa594f7848ca"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_midnight.json"
+hash = "d6a979a19de4d97c50d9da692179c6244aa6b126cf055655746bf39c10a05ce2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_mint.json"
+hash = "76de62b6f61a4eac5b1016560a4d317be593adf3f3907d85bf27418a99340a46"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_navy.json"
+hash = "f5105f36d9138d9d5d18c5b4a5b363aafae64562050478aec6c73b37186c389b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_red.json"
+hash = "3419c4b9df6cd73706cf6b7ee7a31947be9b86f1ec44203d4d7721efb3f1ca66"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_sage.json"
+hash = "e4d92435ae1a6c25a6f84b57960378217908c35fe748b526b40077f45eb685dd"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_stainless.json"
+hash = "70b8bf57680c8b8d595a49907babb16bb8f0482115a43f1809392d57208901d7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/oven_to_oven_yellow.json"
+hash = "afb92d35203e9b6dee68ce52f0637db0b87fcfa19dfa4a1e8f641a4a28ec1feb"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range.json"
+hash = "3af868ad9ff78884f1af5c0248ac60d3ee57df4e81dc0fc0ec791ef0b929ed6c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range.json"
+hash = "c518c8c3e950a969eb30e0f816491781fa3c654c788d56e774a16456cc62c2c9"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_midnight.json"
+hash = "242b6598d4cd4429e677082f5d2674bac17fa02473f603165b707339414ba0f7"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_mint.json"
+hash = "786c5bb615b4e6df4d2f734d870e666209ce9cc187d99f280996368a2d993ba2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_navy.json"
+hash = "27e3a112416be59de305bd776888026671ba06ded419f4e1939c5a02b1a48fde"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_red.json"
+hash = "90c67ece4f95b13b47b78ec7319e18607d7031073779b370675a898048dd4703"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_sage.json"
+hash = "ad116f0bd146a397a747244c4e00b9a1aa68d71ee22cf9b8be071da0119f1d3b"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_stainless.json"
+hash = "d7af925d92a2772396f49ffd2131747a2a707db1559f5d5d98521fd67c0cd9f0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/range_to_range_yellow.json"
+hash = "8e6420e8bfe4e4f708b902824921d7e7c048f8b7aa7bb65d5bc9c2987a7c0346"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sauce_pan.json"
+hash = "9e21e272d292a0e2c42f282d9d9ff1400f0ac77b5a11300dff2d8dfd0dd7e4db"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink.json"
+hash = "a4823de38e44b20929ad9c3a4b4e355e0fad53cadae9abb2027e380402e2249a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink.json"
+hash = "ce3c1dfc166cb3cc61edbe0cb9c0123ebaffeb9fc497250d87c721ccff3150e6"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_midnight.json"
+hash = "7457200add7d14a77b949a7436ecf282a7269071a9dfb6e2a6a5c396378caf45"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_mint.json"
+hash = "ae499ab32a8002dd0a5f648e18a1a2d4f814c8de1d5bedad7818cb46f3bf0ce2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_navy.json"
+hash = "41847405773f4d43cdc2852676c80cf43a8ce636efd3e7d8021d835b00e2322f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_red.json"
+hash = "dc2d4064d2d22035a468eb6529f0e7af0b9c535eb1238e433ecc9407d2716c1d"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_sage.json"
+hash = "f6b62caa818a502b0892d2ea3665a18e09661f84361878b2467ac847665ceebf"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_stainless.json"
+hash = "110936b71e6209477827fe3665f0467fa4fb4a245ec8efaf2e68e0356c5affb0"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/sink_to_sink_yellow.json"
+hash = "3b2f3cb1ddbef4d18d364b8c1a55ab9e2607c4e634ed7c263b8c5d1cfb135f12"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet.json"
+hash = "4a54f3e2feb9e336444ee54672c4208dcea030f7cadade0354c97404224a0fa4"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet.json"
+hash = "0ceb6ddea60ff14d0be0024946405e33fd685516e2c52e6acd17b65c916c9503"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_blackstone_copper.json"
+hash = "1dffdcf05c3bfb4d2b73f03f9b77f980d5e21e15429562b8d2e79f54b7717175"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_concrete_oak.json"
+hash = "7bc39b029dcbd776184dd82c971b6b9887b4d27e7641578d6151b331c03bbe6c"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_deep_navy.json"
+hash = "6143eeb7be0512515825566d6359acb24de6cae134f6e759a3c54ff49adc5a24"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_granite_navy.json"
+hash = "5688d4e2fa0c26ae2a0ce838b8d86a690538c5d664eb48a2124fc30b6925b5d2"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_graphite_stainless.json"
+hash = "6dc8a7ceb29097139b7c8c2a7c5420d2e2aa6e8d095dd214d44ac364d3d2c844"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_ice_blue.json"
+hash = "4cdc3bdc1db4be7b81585173920765cd41cc94f763d0d2eaab06b4964bc6336a"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_marble_cream.json"
+hash = "bbbd29ac4b07a610b82ce6c0327991a52aeffd2225e87f77eb3302000f2fda72"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_quartz_white.json"
+hash = "bb71314156d1db06d2df37279e612f9688b672fd74ccdbe0791ee138e121e581"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_rose_blush.json"
+hash = "14fb3dbb21be7611a17799a9533e0f2d40c3b4c6a3b29a3d6f724fc825d96f6f"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_sage_green.json"
+hash = "d4ba5ef1d3515a86688c66ea560167e08b2163427098cbef227e7dbe2e5b5666"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_slate_charcoal.json"
+hash = "1be71d8cdc7e1dbcb09e89e919aae87dd3cee328e81b090b4a7375a375b3bafc"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_terrazzo_mint.json"
+hash = "937bf5522ba3791051bdfbf8388e45d21f62244f26280636a9c6fab8e284b924"
+
+[[files]]
+file = "kubejs/data/delicious_kitchen_appliances/recipe/upper_cabinet_to_upper_cabinet_yellow.json"
+hash = "e5fe9489a77fce61a22f3e7ca5045930c9e5d823df18f6ae23d14d9d08d863d1"
+
+[[files]]
 file = "kubejs/server_scripts/basalt_recipe.js"
 hash = "2cdf1ec99d876c369794025822a85e52e79d005e2a1cdc3f4260dd50d74d862e"
 
