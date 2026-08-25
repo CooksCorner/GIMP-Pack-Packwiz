@@ -214,7 +214,7 @@ key_justdirethings.key.toggle_tool:key.keyboard.unknown
 key_justdirethings.key.toolUI:key.keyboard.unknown
 key_options.narrator:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_create.keyinfo.toolmenu:key.keyboard.j
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
