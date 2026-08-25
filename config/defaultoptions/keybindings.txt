@@ -130,7 +130,7 @@ key_key.open_muffler_gui:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
 key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
-key_key.inventoryessentials.sort_inventory:key.mouse.middle
+key_key.inventoryessentials.sort_inventory:key.keyboard.unknown
 key_key.inventoryessentials.restock_container:key.keyboard.unknown
 key_key.inventoryessentials.restock_inventory:key.keyboard.unknown
 key_key.inventoryessentials.dump_to_container:key.keyboard.unknown
@@ -188,6 +188,8 @@ key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_key.relics.research_relic:key.keyboard.left.shift
+key_key.relics.active_abilities_list:key.keyboard.left.alt
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.tempad.shortcut:key.keyboard.unknown
