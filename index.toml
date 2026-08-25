@@ -2086,7 +2086,7 @@ hash = "8feb07817d28e567c4445a1dc93412c234fd93d0a7d04359b21ae35dcb82b298"
 
 [[files]]
 file = "config/world-gen.json"
-hash = "b088f6e9cb516cf92e9b40ea36c248ad8d393339c3217c12b2dd8990939ecacf"
+hash = "936b828da1e2c1e1fdf947c39b202f9ae3a326ea162a754dd85700b3ad4f059b"
 
 [[files]]
 file = "config/xnet-client.toml"
