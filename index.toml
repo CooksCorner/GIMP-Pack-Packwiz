@@ -3380,8 +3380,8 @@ hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
 metafile = true
 
 [[files]]
-file = "mods/redstone_insulator-0.1.8.jar"
-hash = "3051cfbc8cb62b328eafa1b67b0b39603016892331dccc4a681f6fcf7f7c0554"
+file = "mods/redstone_insulator-0.1.9.jar"
+hash = "2850d4b14729849176df86f59d3a33b49f2cc6114b281a7f980c88f89ec26a5c"
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
