@@ -2291,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ede3f1a1a9966ecba76bd49ecc839ca1a726fcfa5686d7aad64a46854984db99"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
@@ -2722,6 +2722,11 @@ metafile = true
 [[files]]
 file = "mods/experiencelib.pw.toml"
 hash = "2b7322212c48fbc1a635096a51849dbbcbcb532da8feea9678b26d77e9150e46"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
 metafile = true
 
 [[files]]
