@@ -3155,6 +3155,11 @@ hash = "7f462595efd575e45311efbdf1143d74c7435cd24277576cb9b487f53c9c1d84"
 metafile = true
 
 [[files]]
+file = "mods/manyideas-jei-integration.pw.toml"
+hash = "feb76fb706688b9902f90d72e41473fd09b59668ccf09b66292a43a6fda80723"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
 metafile = true

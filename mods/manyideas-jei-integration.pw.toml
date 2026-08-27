@@ -1,0 +1,8 @@
+name = "ManyIdeas JEI Integration"
+filename = "manyideas_jei_integration-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/CooksCorner/GIMP-Pack-Packwiz/main/mods/manyideas_jei_integration-1.0.0.jar"
+hash-format = "sha256"
+hash = "e967612f4dfaec2464cef98e66630a2f209adc5f0d12e8a41d99d70bb9c06f37"
