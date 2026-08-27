@@ -1,0 +1,13 @@
+name = "Entity Detectors"
+filename = "entitydetectors-1.21.1-4.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1beb7d9ecfe86eead818936034eee073782bdd4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5872591
+project-id = 356702

@@ -2700,6 +2700,11 @@ hash = "bb335808d1873c81f83ec9cf4ca15e8820cfcbd6354beb331a01dc7c2c711ca9"
 metafile = true
 
 [[files]]
+file = "mods/entity-detectors.pw.toml"
+hash = "15f12ff83e88269dcb06d89016fba8c8162975a7ad0afc8d3905b1b4ef2bd217"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
@@ -3140,6 +3145,16 @@ hash = "9b4da9032ff58228faa07d6c68072d0873ac2a321aa374c5578bd6813c95e052"
 metafile = true
 
 [[files]]
+file = "mods/manyideas-core.pw.toml"
+hash = "1cde0bcf60a311e9aff41c7b7c46875acf2129bd0ad3cb504a348b4483cf718b"
+metafile = true
+
+[[files]]
+file = "mods/manyideas-doors.pw.toml"
+hash = "7f462595efd575e45311efbdf1143d74c7435cd24277576cb9b487f53c9c1d84"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
 metafile = true
@@ -3377,6 +3392,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
+metafile = true
+
+[[files]]
+file = "mods/recipes-library.pw.toml"
+hash = "2b532aa5883434ff91e5bde347c98511f87e48710b5a6eff29a36a8ba1c11178"
 metafile = true
 
 [[files]]
