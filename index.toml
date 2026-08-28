@@ -1405,6 +1405,10 @@ file = "config/jeresources-common.toml"
 hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
 
 [[files]]
+file = "config/jmi-client.toml"
+hash = "0906ecca6bd7b83cd78cbfc796e4f196bab7788fd3acb89ebf4ae3c8ddd90542"
+
+[[files]]
 file = "config/journeymap-server.toml"
 hash = "8bffd8191e9f27f873aea9fd62559d677b743912b1ae7f76512e89c2933d78f2"
 
@@ -2163,6 +2167,10 @@ hash = "21b1aa77bebcc5a4557c4f90ee7a6bf80a049fd20fd7508c427a9f3f549ed6e4"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "7928e23f8bc2574dbd4b925f61001817722d68e7609deebf534de9093065b074"
+
+[[files]]
+file = "kubejs/data/waystones/structure/village/desert/waystone.nbt"
+hash = "6b79b73b795fcdc47edc4fb9d3faf310a93437eb0dd8a6107680ebcf21b04148"
 
 [[files]]
 file = "kubejs/server_scripts/basalt_recipe.js"
