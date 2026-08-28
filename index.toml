@@ -2279,7 +2279,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "cc181d3904f4d4bbd4063175888c56ab5112ea2609a285766c83bd3c85b9b029"
+hash = "a7fb5dd08a1cac611debc6b5454e6b01c35997912ee95e2ca9a13b6abecf99f4"
 metafile = true
 
 [[files]]
@@ -2345,6 +2345,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "0a52f6f8c287ca852cce533742ae800dac58a816966e1a491eec68c9e1a63305"
 metafile = true
 
 [[files]]
@@ -2680,6 +2685,11 @@ metafile = true
 [[files]]
 file = "mods/disenchant-anvil.pw.toml"
 hash = "caf92e491b20b69bc7ef77271fb26d791da97506b6a509b0da1e802cbb04988e"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "d2abefd9997328f0fdc8b36f9386438bee89889f58e878f290e9a9c8db8b1b5c"
 metafile = true
 
 [[files]]
@@ -3659,6 +3669,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "9b3918803de451245463401c572fbb58c7bbf176e8d6e0e0381c61dbe4a502bb"
 metafile = true
 
 [[files]]
