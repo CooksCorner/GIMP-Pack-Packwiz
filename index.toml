@@ -914,7 +914,7 @@ hash = "9f6f15cd8712ee64b76a3f730fb3405d939aa4db8f41a3818c9dd0f440752374"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "f831373730c8024117a3397d3fbf50031949d5d964cec7add6cb8f21aec3cbfd"
+hash = "befeed495facbcd328db9d99dd99b582927fc95eb06cc61105a13ec694f69480"
 
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
@@ -3504,6 +3504,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
+metafile = true
+
+[[files]]
+file = "mods/rs-polymorph.pw.toml"
+hash = "acc53051d030ff1e148fa0d88a48d78124b99d09a4db8f43f9bb29edd8e31c1b"
 metafile = true
 
 [[files]]
