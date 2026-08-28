@@ -2584,7 +2584,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimine.pw.toml"
-hash = "626f08493ba89cfc07ec5329d5bd642488f2f09299ec9651d0da71480cd991ef"
+hash = "579800a69ca3296dae0563f50fb2605b4f6ca65633b50b8493fb68782a657314"
 metafile = true
 
 [[files]]
