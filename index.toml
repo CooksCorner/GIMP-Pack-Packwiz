@@ -914,7 +914,7 @@ hash = "9f6f15cd8712ee64b76a3f730fb3405d939aa4db8f41a3818c9dd0f440752374"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
-hash = "befeed495facbcd328db9d99dd99b582927fc95eb06cc61105a13ec694f69480"
+hash = "5affc50fa06859d3f2bdc2532c8e87b7a0b2dcd68799ca6493c9362d2544883d"
 
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
