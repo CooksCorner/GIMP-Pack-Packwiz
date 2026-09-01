@@ -1,0 +1,13 @@
+name = "G3 Doors"
+filename = "g3project_doors_reborn-neo-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92d0a0047018f943d83368a98d91681ab86cc0a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8523338
+project-id = 1253489

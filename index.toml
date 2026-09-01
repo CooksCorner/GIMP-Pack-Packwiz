@@ -2428,6 +2428,11 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "6f3b2586044baf55d5b1cb07752c9def847208270480bf9d893c803277493c1f"
 metafile = true
@@ -2788,6 +2793,11 @@ hash = "24ed7d0ffee64455b6aae616d04269b9067256003c6cbbcda6f7bb596c1a765b"
 metafile = true
 
 [[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "5135cb75af54eb83a61156dd252d19f308b8674d0c5fd778da568527bf6031d3"
 metafile = true
@@ -2890,6 +2900,16 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/g3-deco-blocks.pw.toml"
+hash = "8d7931658ffddb862e482a6fea7c17e6d130d2804f78344a6d7503ccbf25f22f"
+metafile = true
+
+[[files]]
+file = "mods/g3-doors.pw.toml"
+hash = "206a3b60c0177b64137f1ec23c95d92ff7708f4b5d0414effc19a1bb5fa4f6ae"
 metafile = true
 
 [[files]]
@@ -3604,6 +3624,11 @@ metafile = true
 [[files]]
 file = "mods/simple-weather.pw.toml"
 hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
 
 [[files]]
