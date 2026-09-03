@@ -3003,6 +3003,11 @@ hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
 metafile = true
 
 [[files]]
+file = "mods/infinity-drives.pw.toml"
+hash = "5fe79a05b01940206b971d2131fab84e19b13a5ac849c4b7995c4bb63669852c"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "c6b149c13f5fe279a776cc73491396b250538a1f5a9ef212ca8ef5a9db1284e1"
 metafile = true
