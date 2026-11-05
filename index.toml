@@ -2263,6 +2263,11 @@ hash = "f7efd7092e12726923d7bde63bdfa648280f3035f4f9f3341047743cbac1b22a"
 metafile = true
 
 [[files]]
+file = "mods/agritech-evolved.pw.toml"
+hash = "ade92e3b888641a008f1b7f39e609ca27637ba168ac76c3ad5269f3d8d89cd30"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
@@ -2580,6 +2585,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
+metafile = true
+
+[[files]]
+file = "mods/create-flight-control.pw.toml"
+hash = "f6a3394ead34af6dce883bb890eed1d82d6a2d7449ceccacf48eb8aac6655b97"
 metafile = true
 
 [[files]]
@@ -3268,6 +3278,11 @@ hash = "a3c4a3616a1d298a54120f430e37fd1a89fe6287878e83bf8ec9af1d8b84229d"
 metafile = true
 
 [[files]]
+file = "mods/mob-flow-utilities.pw.toml"
+hash = "0e2afc353e23657d4135f7ec80493143b86d21d65fab8c71556dc152a0cd8d54"
+metafile = true
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
@@ -3484,6 +3499,11 @@ hash = "2850d4b14729849176df86f59d3a33b49f2cc6114b281a7f980c88f89ec26a5c"
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "c92edc349660c91cadfa880e2ba26382123467f96a094849220f6fcce977d858"
+metafile = true
+
+[[files]]
+file = "mods/refined-fluid-substitution.pw.toml"
+hash = "6a0d80f147135b1782d0f080ade675cd63c5fc937ca4d9159b88f9dea4d9b4be"
 metafile = true
 
 [[files]]

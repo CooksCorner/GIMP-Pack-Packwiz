@@ -1,0 +1,13 @@
+name = "Refined Fluid Substitution"
+filename = "refinedfluidsubstitution-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0GLcSU4/versions/myRp1PWR/refinedfluidsubstitution-neoforge-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "6fc24c3e90cddabe54925f4e55ef88406988250026f72cf3527e66dd8472e40b583f9e0982e07ae7f588ebf5b53a889dc67781c7e716def3ee01a8bd4133a545"
+
+[update]
+[update.modrinth]
+mod-id = "d0GLcSU4"
+version = "myRp1PWR"

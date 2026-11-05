@@ -1,0 +1,13 @@
+name = "Mob Flow Utilities"
+filename = "mobflowutilities-3.1.10.11-mc-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N2cTD3Ix/versions/JAUngGQO/mobflowutilities-3.1.10.11-mc-1.21.1.jar"
+hash-format = "sha512"
+hash = "8f73d94119bed69cfec10b0d561c25e9ee98158df364f6eb56c646671b61dd46b47b1a8816e3c499bd1c59addcde0921aa9c245c3ed5a52fbb423d0df0aaacb6"
+
+[update]
+[update.modrinth]
+mod-id = "N2cTD3Ix"
+version = "JAUngGQO"
